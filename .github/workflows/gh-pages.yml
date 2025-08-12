@@ -24,7 +24,7 @@ jobs:
           use-toc: true
           toc-version: "latest"
           use-katex: true
-          katex-version: "latest"
+          katex-version: "0.9.4"
 
       - run: mdbook build
 
